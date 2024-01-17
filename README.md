@@ -20,6 +20,6 @@ I'm enthusiastically grabbing onto new programming languages,framework and IT in
 
 **Skills**: Web Development|UI/UX Design| Project management
 
-**Tools**: 
+
 
 
