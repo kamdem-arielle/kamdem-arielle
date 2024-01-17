@@ -1,23 +1,25 @@
 ### Hi there 👋
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png)">
- <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true">
 </picture>
 
+<br /><br /><br />
+Hello,my name is **Kamdem arielle** 👩.I'm a software developer specialised in front-end web development 💻.I have a huge interest in software development as well as DevOps technologies.
+Currently,I work at **Pether corporation** where I get to develop life-changing web applications.
+<br />
 
-<!--
-**kamdem-arielle/kamdem-arielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love learning new skills and programming languages, problem solving and website optimization.So far I have **Javascript,Sql,Typescript,Html,css,Angular,React,Bootstrap,Python,Git/Github/Bitbucket,c#(Asp.net core)** as technical skills💪.
+<br />
 
-Here are some ideas to get you started:
+I'm also fond of graphic design and love giving live to my creative ideas using tools such as **Adobe xd,Figma** and **Canva**😊.
+<br />
+I'm enthusiastically grabbing onto new programming languages,framework and IT innovative solutions such as **Cloud Computing** and **DevOps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**: Web Development|UI/UX Design| Project management
+
+**Tools**: 
+
+
