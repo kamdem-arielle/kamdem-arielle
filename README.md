@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png)">
+</picture>
+
+
 <!--
 **kamdem-arielle/kamdem-arielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
