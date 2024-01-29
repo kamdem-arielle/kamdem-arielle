@@ -20,6 +20,17 @@ I'm enthusiastically grabbing onto new programming languages,framework and IT in
 
 **Skills**: Web Development|UI/UX Design| Project management
 
+**Languages and tools**
+
+![Image Alt Text](/amazonaws-color.svg | width=50)
+
+<img src="/amazonaws-color.svg" width="50" height="50"><img src="/python-color.svg" width="40" height="40">
+
+<p align="left">
+  <img alt="Light" src="/amazonaws-color.svg" width="50" height="50">
+  <img alt="Dark" src="/amazonaws-color.svg" width="45%" height="50">
+</p>
+
 
 
 
