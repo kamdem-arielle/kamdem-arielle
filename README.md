@@ -19,6 +19,7 @@ I'm also fond of graphic design and love giving live to my creative ideas using 
 I'm enthusiastically grabbing onto new programming languages,framework and IT innovative solutions such as **Cloud Computing** and **DevOps**.
 
 **Skills**
+
 Web Development|UI/UX Design| Project management
 <br /><br />
 
@@ -36,7 +37,9 @@ Web Development|UI/UX Design| Project management
 <code><img height="30" alt="graphql" src="/git-color.svg"></code>
 <br /><br />
 
- <a href="https://github.com/kamdem-arielle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamdem-arielle&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="AK's github stats" /></a>  <a href="https://github.com/kamdem-arielle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdem-arielle&layout=compact&theme=synthwave&hide_border=true" /></a> 
+**Github profile stats**
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamdem-arielle&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="AK's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdem-arielle&layout=compact&theme=jolly&hide_border=true" /></a> 
 
 <br /><br />
 
