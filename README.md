@@ -18,17 +18,31 @@ I'm also fond of graphic design and love giving live to my creative ideas using 
 <br />
 I'm enthusiastically grabbing onto new programming languages,framework and IT innovative solutions such as **Cloud Computing** and **DevOps**.
 
-**Skills**: Web Development|UI/UX Design| Project management
+**Skills**
+Web Development|UI/UX Design| Project management
+<br /><br />
 
 **Languages and tools**
 
-![Image Alt Text](/amazonaws-color.svg | width=50)
+<code><img height="30" alt="javascript" src="/angular-color.svg"></code>
+<code><img height="30" alt="typescript" src="/ngrx-color.svg"></code>
+<code><img height="30" alt="react" src="/reactivex-color.svg"></code>
+<code><img height="30" alt="graphql" src="/react-color.svg"></code>
+<code><img height="30" alt="javascript" src="/reactrouter-color.svg"></code>
+<code><img height="30" alt="typescript" src="/python-color.svg"></code>
+<code><img height="30" alt="react" src="/php-color.svg"></code>
+<code><img height="30" alt="graphql" src="/amazonaws-color.svg"></code>
+<code><img height="30" alt="react" src="/npm-color.svg"></code>
+<code><img height="30" alt="graphql" src="/git-color.svg"></code>
+<br /><br />
 
-<img src="/amazonaws-color.svg" width="50" height="50"><img src="/python-color.svg" width="40" height="40">
+| <a href="https://github.com/kamdem-arielle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamdem-arielle&show_icons=true&include_all_commits=true&theme=synthwave&hide_border=true" alt="AK's github stats" /></a> | <a href="https://github.com/kamdem-arielle/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdem-arielle&layout=compact&theme=synthwave&hide_border=true" /></a> |
+| ------------- | ------------- |
+<br /><br />
 
-<p align="left">
-  <img alt="Light" src="/amazonaws-color.svg" width="50" height="50">
-  <img alt="Dark" src="/amazonaws-color.svg" width="45%" height="50">
+**Where to find me**
+
+<p><a href="https://github.com/kamdem-arielle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="www.linkedin.com/in/arielle-kamdem-17858225a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
