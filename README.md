@@ -37,11 +37,6 @@ Web Development|UI/UX Design| Project management
 <code><img height="30" alt="graphql" src="/git-color.svg"></code>
 <br /><br />
 
-**Github profile stats**
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kamdem-arielle&show_icons=true" alt="AK's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdem-arielle&layout=compact&theme=jolly&hide_border=true" /></a> 
-
-
 <br /><br />
 
 **Where to find me**
