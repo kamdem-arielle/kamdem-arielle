@@ -33,7 +33,7 @@ I’m **Kamdem Arielle**, a passionate **frontend developer** and **Angular Spec
 
 ### 🌱 **Currently Exploring**  
 - Advanced **AWS Solutions Architect** certifications.  
-- Cutting-edge **cybersecurity techniques** and practices.  
+- Cutting-edge **DevOps techniques** and practices.  
 - Collaborative open-source projects to contribute to the global tech community.  
 
 ---
@@ -56,36 +56,9 @@ I’m **Kamdem Arielle**, a passionate **frontend developer** and **Angular Spec
 
 ### 📫 **Let’s Connect!**  
 📧 Email: [kamdem.yarielle@gmail.com](mailto:kamdem.yarielle@gmail.com)  
-🌐 LinkedIn: [Kamdem Arielle](https://linkedin.com/in/kamdemarielle)  
-💻 Twitter: [@KamdemArielle](https://twitter.com/kamdemarielle)  
+🌐 LinkedIn: [Kamdem Arielle]([https://linkedin.com/in/kamdemarielle](https://www.linkedin.com/in/arielle-kamdem-17858225a))
 
 
-
-**Skills**
-
-Web Development|UI/UX Design| Project management
-<br /><br />
-
-**Languages and tools**
-
-<code><img height="30" alt="javascript" src="/angular-color.svg"></code>
-<code><img height="30" alt="typescript" src="/ngrx-color.svg"></code>
-<code><img height="30" alt="react" src="/reactivex-color.svg"></code>
-<code><img height="30" alt="graphql" src="/react-color.svg"></code>
-<code><img height="30" alt="javascript" src="/reactrouter-color.svg"></code>
-<code><img height="30" alt="typescript" src="/python-color.svg"></code>
-<code><img height="30" alt="react" src="/php-color.svg"></code>
-<code><img height="30" alt="graphql" src="/amazonaws-color.svg"></code>
-<code><img height="30" alt="react" src="/npm-color.svg"></code>
-<code><img height="30" alt="graphql" src="/git-color.svg"></code>
-<br /><br />
-
-<br /><br />
-
-**Where to find me**
-
-<p><a href="https://github.com/kamdem-arielle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="www.linkedin.com/in/arielle-kamdem-17858225a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 
 
