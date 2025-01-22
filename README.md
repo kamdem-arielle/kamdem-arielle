@@ -54,4 +54,4 @@ I’m **Kamdem Arielle**, a passionate **frontend developer** and **Angular Spec
 
 ### 📫 **Let’s Connect!**  
 📧 Email: [kamdem.yarielle@gmail.com](mailto:kamdem.yarielle@gmail.com)  
-🌐 LinkedIn: [Kamdem Arielle][https://linkedin.com/in/kamdemarielle](https://www.linkedin.com/in/arielle-kamdem-17858225a)
+🌐 LinkedIn: [Kamdem Arielle][https://www.linkedin.com/in/arielle-kamdem-17858225a]
