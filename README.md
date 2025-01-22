@@ -1,9 +1,7 @@
-### 👩‍💻 Kamdem Arielle
-
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/kamdem-arielle/kamdem-arielle/blob/d391d6776056607eee16678a99664a71b21dbec1/Purple%20Geometric%20Technology%20LinkedIn%20Banner.png?raw=true">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
 </picture>
 
 # 👩‍💻 Kamdem Arielle  
@@ -57,9 +55,3 @@ I’m **Kamdem Arielle**, a passionate **frontend developer** and **Angular Spec
 ### 📫 **Let’s Connect!**  
 📧 Email: [kamdem.yarielle@gmail.com](mailto:kamdem.yarielle@gmail.com)  
 🌐 LinkedIn: [Kamdem Arielle]([https://linkedin.com/in/kamdemarielle](https://www.linkedin.com/in/arielle-kamdem-17858225a))
-
-
-
-
-
-
