@@ -1,57 +1,55 @@
-<picture>
+<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/11da704c-d86d-4e16-82c9-db6620cef074" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/a061c739-e888-41e5-9201-0882b70979de" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/0f26f4b1-61d0-4506-9c7e-945506c13a5d" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/571cbb86-713f-4d14-bbe1-407023ec7593" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/f8dedbf7-f10b-481a-9d3a-0aeaba102d54" /><picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
 </picture>
 
-# 👩‍💻 Kamdem Arielle  
+# Kamdem Arielle  
 
 ### Hello, World! 🌍  
 
-I’m **Kamdem Arielle**, a passionate **frontend developer** and **Angular Specialist** 🅰️, driven by a love for crafting scalable, user-friendly web applications. With a deep interest in **cloud computing** ☁️ and **cybersecurity**, I’m constantly learning and evolving to create impactful solutions.  
+Frontend Developer | Angular • React • Vue.js • TypeScript | AWS & GCP Certified
+
+Building scalable, high-performance web applications with 3+ years of professional experience. Specializing in design systems, state management, and cloud-native architectures.
+
+Canadian Permanent Resident | Bilingual (English/French)
+
 
 ---
 
-### 🔥 **What I Do**  
-- **Frontend Development:** Building dynamic web apps with **Angular**, **React**, **TypeScript**, and **JavaScript**.  
-- **Backend Development:** Experienced with **ASP.NET Core**, **Python**, and database systems like **SQL Server**.  
-- **DevOps & Cloud:** Proficient in **CI/CD pipelines**, **AWS**, and **GCP**, aiming for mastery in **cloud computing**.  
-- **Testing Automation:** Skilled in **Cypress**, **Karma**, and **Playwright** for ensuring robust applications.  
-- **Graphic Design:** Bringing ideas to life with **Figma**, **Adobe XD**, and **Canva**.  
+
+### **Key Achievements**  
+- **Component Library Impact**: Led development of a Storybook-based design system that reduced development time by **20%** across 5 applications and improved code reusability by **35%**
+- **Performance Optimization**: Optimized application performance by migrating file storage from database to AWS S3, reducing page load times by **40%** and API calls by **50%** through NgRx state management
+- **Team Leadership**: Successfully led a team of 4 developers in migrating 4 enterprise applications from Angular 9 to Angular 16, while mentoring 5+ junior developers and interns
+- **Cloud Architecture**: Engineered secure, scalable web platforms on AWS and GCP, serving **1000+ users** with robust authentication (AWS Cognito), role-based access control (IAM), and CI/CD automation
 
 ---
 
-### 🌟 **Key Achievements**  
-- **Lead Software Developer** at **Pether Corporation**, designing scalable front-end solutions and mentoring teams.  
-- Migrated applications from **Angular 9 to Angular 16**, ensuring better performance and maintainability.  
-- Built CI/CD pipelines, reducing manual testing efforts by 50% through automation.  
-- Delivered high-quality, responsive web applications with a **95% client satisfaction rate**.  
-
----
-
-### 🌱 **Currently Exploring**  
-- Advanced **AWS Solutions Architect** certifications.  
+### **Currently Exploring**  
+- Advanced **Cloud computing** certifications.  
 - Cutting-edge **DevOps techniques** and practices.  
 - Collaborative open-source projects to contribute to the global tech community.  
 
 ---
 
-### 🛠️ **Technical Stack**  
-**Frontend:** Angular (Material, RxJS, NgRx), React, TypeScript, JavaScript, HTML, CSS  
-**Backend:** ASP.NET Core, Python, SQL Server  
-**DevOps & Cloud:** AWS, GCP, CI/CD Pipelines  
-**Testing:** Cypress, Playwright, Karma  
-**Design:** Figma, Adobe XD, Canva  
+### **Technical Stack**  
+**Frontend technologies:** Angular, React, Vue.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, D3.js
+**State Management:** NgRx, Redux, Vuex, Pinia, RxJS Observables, Reactive Programming
+**Cloud and DevOps:** AWS, Google Cloud Platform (GCP), Azure, CI/CD Pipelines, Docker
+**Testing and Quality:** Cypress, Playwright, Karma  
+**Backend and APIs:** Node.js, Express.js, REST APIs, WebSocket, ASP.NET Core, PHP, Python
+**Collaboration:** Git, GitHub, Bitbucket, Agile/Scrum, Jira, Storybook, Zammad and Zendesk Ticketing systems
 
 ---
 
-### ✨ **A Little More About Me**  
-- **Anime Lover:** *Solo Leveling* is my current favorite! 💥  
-- **God’s Child:** Faith drives my passion and dedication. ❤️🙏  
+### **A Little More About Me**  
+- **Anime Lover:** *Solo Leveling* is my current favorite! 
+- **God’s Child:** Faith drives my passion and dedication.
 - **Lifelong Learner:** Constantly exploring new languages, frameworks, and IT innovations.  
 
 ---
 
-### 📫 **Let’s Connect!**  
-📧 Email: [kamdem.yarielle@gmail.com](mailto:kamdem.yarielle@gmail.com)  
+### **Let’s Connect!**  
+📧 Email: [kamdemarielle22@gmail.com](mailto:kamdemarielle22@gmail.com)  
 🌐 LinkedIn: [Kamdem Arielle](https://www.linkedin.com/in/arielle-kamdem-17858225a)
