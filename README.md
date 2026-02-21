@@ -1,8 +1,8 @@
-<img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/11da704c-d86d-4e16-82c9-db6620cef074" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/a061c739-e888-41e5-9201-0882b70979de" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/0f26f4b1-61d0-4506-9c7e-945506c13a5d" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/571cbb86-713f-4d14-bbe1-407023ec7593" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/f8dedbf7-f10b-481a-9d3a-0aeaba102d54" /><picture>
+<!-- <img width="468" height="50" alt="image" src="https://github.com/user-attachments/assets/11da704c-d86d-4e16-82c9-db6620cef074" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/a061c739-e888-41e5-9201-0882b70979de" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/0f26f4b1-61d0-4506-9c7e-945506c13a5d" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/571cbb86-713f-4d14-bbe1-407023ec7593" /><img width="468" height="25" alt="image" src="https://github.com/user-attachments/assets/f8dedbf7-f10b-481a-9d3a-0aeaba102d54" /><picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/kamdem-arielle/kamdem-arielle/blob/581703d93dbffef20c8326b2a60ea3ee69484de0/linkedin%20profile.jpeg?raw=true">
-</picture>
+</picture> -->
 
 # Kamdem Arielle  
 
@@ -34,12 +34,12 @@ Canadian Permanent Resident | Bilingual (English/French)
 ---
 
 ### **Technical Stack**  
-**Frontend technologies:** Angular, React, Vue.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, D3.js
-**State Management:** NgRx, Redux, Vuex, Pinia, RxJS Observables, Reactive Programming
-**Cloud and DevOps:** AWS, Google Cloud Platform (GCP), Azure, CI/CD Pipelines, Docker
-**Testing and Quality:** Cypress, Playwright, Karma  
-**Backend and APIs:** Node.js, Express.js, REST APIs, WebSocket, ASP.NET Core, PHP, Python
-**Collaboration:** Git, GitHub, Bitbucket, Agile/Scrum, Jira, Storybook, Zammad and Zendesk Ticketing systems
+**Frontend technologies:** Angular, React, Vue.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, D3.js.
+**State Management:** NgRx, Redux, Vuex, Pinia, RxJS Observables, Reactive Programming.
+**Cloud and DevOps:** AWS, Google Cloud Platform (GCP), Azure, CI/CD Pipelines, Docker.
+**Testing and Quality:** Cypress, Playwright, Karma.
+**Backend and APIs:** Node.js, Express.js, REST APIs, WebSocket, ASP.NET Core, PHP, Python.
+**Collaboration:** Git, GitHub, Bitbucket, Agile/Scrum, Jira, Storybook, Zammad and Zendesk Ticketing systems.
 
 ---
 
