@@ -34,12 +34,12 @@ Canadian Permanent Resident | Bilingual (English/French)
 ---
 
 ### **Technical Stack**  
-**Frontend technologies:** Angular, React, Vue.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, D3.js.
-**State Management:** NgRx, Redux, Vuex, Pinia, RxJS Observables, Reactive Programming.
-**Cloud and DevOps:** AWS, Google Cloud Platform (GCP), Azure, CI/CD Pipelines, Docker.
-**Testing and Quality:** Cypress, Playwright, Karma.
-**Backend and APIs:** Node.js, Express.js, REST APIs, WebSocket, ASP.NET Core, PHP, Python.
-**Collaboration:** Git, GitHub, Bitbucket, Agile/Scrum, Jira, Storybook, Zammad and Zendesk Ticketing systems.
+- **Frontend technologies:** Angular, React, Vue.js, Tailwind CSS, Bootstrap, DevExtreme, Chart.js, D3.js.
+- **State Management:** NgRx, Redux, Vuex, Pinia, RxJS Observables, Reactive Programming.
+- **Cloud and DevOps:** AWS, Google Cloud Platform (GCP), Azure, CI/CD Pipelines, Docker.
+- **Testing and Quality:** Cypress, Playwright, Karma.
+- **Backend and APIs:** Node.js, Express.js, REST APIs, WebSocket, ASP.NET Core, PHP, Python.
+- **Collaboration:** Git, GitHub, Bitbucket, Agile/Scrum, Jira, Storybook, Zammad and Zendesk Ticketing systems.
 
 ---
 
