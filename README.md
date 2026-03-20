@@ -8,9 +8,9 @@
 
 ### Hello, World! 🌍  
 
-Frontend Developer | Angular • React • Vue.js • TypeScript | AWS & GCP Certified
+Full Stack Developer | Angular · React · TypeScript · Node.js | AWS · Azure · GCP | IT Support & Systems | CI/CD · DevOps | Bilingual FR/EN
 
-Building scalable, high-performance web applications with 3+ years of professional experience. Specializing in design systems, state management, and cloud-native architectures.
+Building scalable, high-performance web applications with 6+ years of professional experience. Specializing in design systems, state management, and cloud-native architectures.
 
 Canadian Permanent Resident | Bilingual (English/French)
 
