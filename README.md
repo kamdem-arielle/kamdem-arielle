@@ -44,7 +44,7 @@ Canadian Permanent Resident | Bilingual (English/French)
 ---
 
 ### **A Little More About Me**  
-- **Anime Lover:** *Solo Leveling* is my current favorite! 
+- **Anime Lover:** *Jujutsu Kaisen*, *Demon slayer* and *Fire force* are my current favorite! 
 - **God’s Child:** Faith drives my passion and dedication.
 - **Lifelong Learner:** Constantly exploring new languages, frameworks, and IT innovations.  
 
